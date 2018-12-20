@@ -1,0 +1,17 @@
+1)
+
+If we have a process that makes Products, verifies them, and then sells them. We have to have the verifying stage before the
+sell stage otherwise it would be sold and not registered. When the process makes products we block the sell stage and open it
+back up when registered has finished.
+
+2)
+
+G.2; B.5; A.8; D.12; C.16; F.21; H.34; E.55;
+->---->---->------>---->---->----->--->--->
+ 2  + 7 + 15  + 27  + 43  +  64 +  98  + 153 = 409;
+
+
+3)
+
+If a process would be twice in the list, then the process would get more time. (There would only be one Process that has a longer time
+Not two with longer time)
